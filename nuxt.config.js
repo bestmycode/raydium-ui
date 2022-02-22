@@ -41,6 +41,9 @@ export default {
     background: '#131a35'
   },
 
+  generate: {
+    dir: 'public'
+  },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     {
